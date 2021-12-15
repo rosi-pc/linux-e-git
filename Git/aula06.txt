@@ -1,0 +1,4 @@
+Aprofundando no Git II
+
+Nessa aula submetemos nosso projeto, criado em aulas passadas, no GitHub.
+Foram aprendidos sobre boas práticas, e como funciona esse controle de versões na prática.
