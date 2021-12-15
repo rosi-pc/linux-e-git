@@ -1,0 +1,5 @@
+Introdução ao Git
+
+O git foi criado com o intuito de facilitar na colaboração distribuição de códigos, que geralmente são hospeados no GitHub.
+Para clonar algum projeto do GitHub, é utilizado o comando git clone. Para fazer a atualização de arquivos, você pode usar o git pull. E para publicar algo da sua máquina para o repositório, o comando é git push.
+No git, temos o working directory, que é onde os arquivos ficam salvos quando são criados. Tem a staging area, que é o local onde os arquivos ficam disponíveis para serem "commitados". E por último, com um comando git commit, é possível adicionar os arquivos no repository.  
