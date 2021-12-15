@@ -1,0 +1,8 @@
+Aprofundando no Git I
+
+Aprofundou-se sobre o que é branch, como criamos uma branch, e como o projeto é impactado quando é realizado um merge dos arquivos criados nessa branch com os arquivos que estão na branch principal.
+
+Comandos:
+- git checkout -b [Nome do branch]: Cria uma nova branch
+- git checkout [Nome do branch]: Muda de branch
+- git merge [Nome do branch]: Faz o merge dos arquivos que estão na branch que está sendo especificada no código (Obs.: é preciso está na branch em que está sendo feito o merge).
