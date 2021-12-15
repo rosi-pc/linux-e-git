@@ -1,0 +1,15 @@
+Principais comandos do Terminal Linux
+
+- sudo su: Um comando muito importante visto em sala, no qual permite que você entre como um super usuário, e execute tarefas específicas que o usuário comum não consiga.
+
+- ls -la: mostra todos os arquivos da pasta atual, em uma lista, com informações bem detalhadas, como por exemplo, a data de modificação.
+
+- touch: este comando cria um arquivo em branco qualquer, na extensão especificada pelo usuário.
+
+- nano: permite editar os arquivos no próprio terminal.
+
+- cat: exibe o conteúdo de um arquivo dentro do terminal. Esse comando é perfeito se caso você queira mesclar o conteúdo de vários arquivos em apenas um. No caso, seria preciso que os arquivos estejam na mesma pasta, com a mesma extensão, e então executar "cat *.[extensãodoarquivo] > [nomedoarquivo].[extensãodoarquivo]".
+
+- rm: remove um arquivo.
+
+- apt --help: aprensenta os principais comandos do apt.
