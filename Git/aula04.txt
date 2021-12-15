@@ -1,0 +1,5 @@
+Git_na_Prática
+
+Nessa aula foi criado um repositório. Foram aprendidos comandos como "git init", que serve para inicializar um repositório, e "git add" para adicionar arquivos na staging area. 
+
+Usou-se o comando git status que apresenta as mudanças no projetos que não foram commitadas, o git diff, que apresentas as mudanças realizadas entre o penúltimo commit e o último, e também o git log, que apresenta todos os commits, desde o início do projeto.
