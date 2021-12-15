@@ -1,0 +1,22 @@
+Um pouco sobre o Linux
+
+Nessa aula aprendemos que Linux não é um sistema operacional, e sim, 
+um kernel. E que um kernel faz a "ponte" entre o hardware e o software, 
+permitindo que os aplicativos do sistema interajam com o hardware.
+
+Algo muito interessante na história do Linux é que seu criador deixou 
+o código fonte aberto, o que acabou por resultar no que atualmente chama-se
+de "software livre".
+
+O sistema operacional equivale a uma distribuição Linux, porém, existem 
+várias. A mais conhecida é a Ubuntu, mas existem a Debian, Linux Mint,
+Deepin, entre outras.
+
+Máquina Virtual
+
+Uma máquina virtual é um programa que simula um computador, sendo usada
+quando se deseja utilizar um sistema operacional diferente do que está 
+instalado no seu computador. 
+
+Durante a aula foi seguido alguns passos para a instalação do Ubuntu em
+uma máquina virtual.
